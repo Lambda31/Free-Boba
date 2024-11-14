@@ -2,5 +2,8 @@ body {
     text-align: center ; 
     font-family: 'Arial';
     background: azure;
-    color: black;
+    color:chocolate;
+}
+img{
+    width: 200px;
 }
